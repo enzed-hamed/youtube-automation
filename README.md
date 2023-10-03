@@ -3,7 +3,7 @@ In this project, I have wrote a handful of scripts to perform useful tasks with 
 
 ## Subtitle/Audionscript/Transcript Downloader
 You can simply run the program as follow:<br />
-`python audioscript.py  video_url`__
+`python audioscript.py  video_url`<br />
 This will go ahead and list out all the available subtitles which are Manual, Auto-generated, and Translated in this order with their language code.
 You have to select language by its code and it will download and store it into an excel sheet (sorry this was for an student project). If subtitle disabled by video owner, script will notify you.
 
