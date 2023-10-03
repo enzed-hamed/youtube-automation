@@ -9,5 +9,9 @@ You have to select language by its code and it will download and store it into a
 
 
 ## Video Downloader
-This is a simple youtube video downloader that asks for the video url and downloads highest quality available in the same folder.
+This is a simple youtube video downloader that asks for the video url and downloads highest quality available in the same folder.<br />
 `python video_downloader.py`
+
+## Extract Channel Info
+This Script asks for a Youtube channel url, it supports different forms of url. It fetches all the information on the channel including total number of views, subscribers, creation date, country, etc. Then it fetches all the statistics and info of all channel's videos. Finally Information of channel and Videos are stored in two seperate spreadsheets.<br />
+`python youtube.py`
